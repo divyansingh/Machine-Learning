@@ -8,5 +8,5 @@ Python codes for common Machine Learning Algorithms
 
 ## Contents
 
-*Logistic-Regression-Project
-*Linear-Regression-Project
+* Logistic-Regression-Project
+* Linear-Regression-Project
