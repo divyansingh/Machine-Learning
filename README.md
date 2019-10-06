@@ -5,3 +5,8 @@
      style="float: center; margin-right: 10px;" />
 
 Python codes for common Machine Learning Algorithms
+
+## Contents
+
+*Logistic-Regression-Project
+*Linear-Regression-Project
